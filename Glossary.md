@@ -18,6 +18,8 @@
 
 **Dive** - Tower diving, the fact of attacking an enemy under his tower, usually to deal a killing blow on a low-health champion. Doing so makes the tower attack the diver, making it a risky move.
 
+**Feed/Fed** - When a player is 'fed' it means that it has received a lot more XP and gold than other players. *Feeding a player* means dying repeatedly for the same summoner, giving them the advantage in gold and XP.
+
 **Gank** - To gang up on an enemy champion by surprise and kill them
 
 **Leash (red/blue)** - helping the jungler with a neutral monster until the monster is at ~30-40% of health at the beginning of a game, so that the jungler can use Smite to finish it (usually people leave the area so that the jungler gets all the experience).
