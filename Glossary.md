@@ -4,6 +4,10 @@
 
 **ACE** - When all the champions from the other team are dead at the same time. 
 
+**AD** - Attack Damage. Means the power for this champion comes usually from items and their auto attack.
+
+**AP** - Ability Power. Means the power of this chapions comes usually from the abilities (`QWER`) and they're not so dependent on their auto attack.
+
 **Blue** - Blue buff on Summoner's Rift, from the Ancient Golem. Provides mana regeneration and reduced cooldowns for abilities.
 
 **Bot** - bottom lane in Summoner's Rift or the champions who are laning there.
