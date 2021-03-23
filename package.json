@@ -1,0 +1,14 @@
+{
+  "name": "league-guide",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:purplequeue/league-guide.git",
+  "author": "purplequeue <purplequeue@pm.me>",
+  "license": "MIT",
+  "scripts": {
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^2.1.1"
+  }
+}
