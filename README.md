@@ -16,6 +16,6 @@ refer to the [wiki].
 
 ### Where to look for stuff?
 
-For now, we only have the [Glossary](Glossary.md)
+There's a [Glossary](Glossary.md). and a [Warwick Jungler](<Warwick Jungler.md>) which is basically a draft at this point.
 
 [wiki]: https://leagueoflegends.fandom.com/
